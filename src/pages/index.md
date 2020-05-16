@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/plombier-de-confiance-a-paris-20.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: "*"
+subheading: "*Un plombier parisien ponctuel, efficace, rapide...et sympa :)"
 mainpitch:
   title: Why Kaldi
   description: >
