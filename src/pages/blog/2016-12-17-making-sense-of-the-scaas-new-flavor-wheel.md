@@ -1,33 +1,46 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: La plomberie, une plus value pour vos actifs immobilier!
 date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: Investisseurs immobiliers, acquéreurs de résidences principales ou
+  gestionnaires locatifs, bien souvent vous nous appeler lorsque les dégâts sont
+  déjà là. Vous nous demander d'intervenir en urgence (oubliant accessoirement
+  qu'on a aussi un agenda bien fourni :). Retenez qu'il vaut mieux prévenir que
+  guérir, petit tour des points à valider pour rester serein.
+featuredpost: true
+featuredimage: /img/fuite-maison.png
 tags:
-  - flavor
-  - tasting
+  - plomberie
+  - visite immobilière
+  - points de surveillance
+  - installation plomberie aux normes
+  - plombier 75020
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+# Le rôle du plombier et de l'artisan en général dans votre investissement
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Vous êtes un investisseur chevronné ou un particulier cherchant à acheter sa résidence principale, le principe est le même. Vous négligez souvent l'aspect technique lors de vos visites.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Vous évaluez un prix de travaux lors de votre acquisition qui, bien souvent n'est pas conforme à la réalité. Il est soit sous-évalué et bonjour les dégâts lorsque vous demandez des devis...après avoir obtenu votre crédit, ou soit surévalué et vous empruntez un peu trop.
 
-## What the updates mean to you
+Ayez en tête qu'en matière de Gestion Locative les interventions en plomberie constitute un budgemt moyen annuel de 100 à 250 €. Lorsque l'installation est obsolète la facture peut grimper à 1000 €. Alors pensez à bien vérifier ces points lors de votre prochaine visite:
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+# Les points de plomberie à contrôler
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+* état des chéneaux et des gouttières (si les murs sont noircis, c'est suspect)
+* les tuyaux d'alimentation sont-ils en plomb
+* Y a t-il des gonflements ou des fissures près des points d'eau?
+* Y a-t-il des moisissures?
+* La chaudière a-t-elle plus de 15 ans (durée de vie moyenne)
+* Les joints de carrelage sont-ils noircis? encore étanche?
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Nous pouvons vous accompagner et vous rendre un rapport technique en tant que plombier certifié pour toutes vos visites immobilières.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+La visite + le rapport : 175 € H.T.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+n'hésitez pas à nous appeler au 06.87.94.92.67
+
+
+
+
+
+![Petit oubli...grosse fuite...prévenir est moins cher que guérir :)](/img/fuite-maison.png)
