@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: "*"
 image: /img/plombier-de-confiance-a-paris-20.jpg
 heading: "*"
 subheading: "*Un plombier parisien ponctuel, efficace, rapide...et sympa :)"
